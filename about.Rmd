@@ -1,0 +1,12 @@
+---
+title: "About"
+description: |
+  Welcome to my personal blog! Here, I showcase my passion for learning new data related technologies through small scaled projects. Since this blog was created recently, there is not much to discover for now. However, in the furture you will find a portfolio of my work ranging from interactive web applications to case studies with machine learning models. 
+  
+  This web log documents my projects and personal progress and was created using [Distill for R Markdown](https://rstudio.github.io/distill/). It covers the domains of economics and finance and also vaguely related or unrelated stuff with R. You will find posts which are either written in English or German, depending on the mood of the author. Enjoy!
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
